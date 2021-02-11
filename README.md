@@ -9,9 +9,9 @@ Extracting data from Opportunity Atlas, I was able to compare the average househ
 
 ### Baltimore
 ![alt text](https://github.com/justinjiholee/baltimore-washingtondc-household-data/blob/main/Baltimore%20Average%20Household%20Income%20Graph.png)
-Using the data from Opportunity Atlas, I created a PivotTable and a Pivot Chart to analyze the average household income in Baltimore. The average household income in Baltimore is $34,700.
+Using the data from Opportunity Atlas, I created a Pivot Table and a Bar Chart to analyze the average household income in Baltimore. The average household income in Baltimore is $29,900.
 ### Washington D.C.
 ![alt text](https://github.com/justinjiholee/baltimore-washingtondc-household-data/blob/main/Washington%20D.C.%20Average%20Household%20Income%20Graph.png)
-Using the data from Opportunity Atlas, I created a PivotTable and a Pivot Chart to analyze the average household income in Washinton D.C. The average household income in Washington D.C. is $35,500.
+Using the data from Opportunity Atlas, I created a Pivot Table and a Bar Chart to analyze the average household income in Washinton D.C. The average household income in Washington D.C. is $35,500.
 ## College Graduation Rate vs Household Income
 ![alt text](https://github.com/justinjiholee/baltimore-washingtondc-household-data/blob/main/College%20Graduation%20Rate%20Graph.png)
