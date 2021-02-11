@@ -13,6 +13,4 @@ Using the data from Opportunity Atlas, I created a PivotTable and a Pivot Chart 
 Using the data from Opportunity Atlas, I created a PivotTable and a Pivot Chart to analyze the average household income in Washinton D.C. The average household income in Washington D.C. is $35,500.
 ## College Graduation Rate vs Household Income
 
-### Baltimore
 
-### Washington D.C.
