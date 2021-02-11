@@ -3,7 +3,7 @@
 ## Background
 Baltimore and Washington D.C. are both considered two of the biggest cities in the east coast of the United States. Two cities share many similarities as they both have a population around 600,000 people and are only 30 miles apart from each other. However, Washington D.C. is generally more known to people as it is the capital of the country. Considering this fact, I wanted to compare the average household income of two cities and how the results affect the college graduation rates. 
 ## Business Question
-_As Washington D.C. being the capital of United States, would people living in Washington D.C. have higher average household income than those living in Baltimore? How does the difference in average household income affect college graduation rates in both cities?_
+_As Washington D.C. being the capital of United States and has much lower unemployment rate, would people living in Washington D.C. have higher average household income than those living in Baltimore? How does the difference in average household income affect college graduation rates in both cities?_
 ## Household Income
 Extracting data from Opportunity Atlas, I was able to compare the average household income of Baltimore and Washington D.C. regardless of parents' income, race, and gender.
 
