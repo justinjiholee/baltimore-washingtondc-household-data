@@ -8,8 +8,10 @@ As Washington D.C. being the capital of United States, would people living in Wa
 Extracting data from Opportunity Atlas, I was able to compare the average household income of Baltimore and Washington D.C. regardless of parents' income, race, and gender.
 
 ### Baltimore
+![alt text]
 Using the data from Opportunity Atlas, I created a PivotTable and a Pivot Chart to analyze the average household income in Baltimore. The average household income in Baltimore is $34,700.
 ### Washington D.C.
+![alt text]
 Using the data from Opportunity Atlas, I created a PivotTable and a Pivot Chart to analyze the average household income in Washinton D.C. The average household income in Washington D.C. is $35,500.
 ## College Graduation Rate vs Household Income
 
