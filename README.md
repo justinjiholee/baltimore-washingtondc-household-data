@@ -24,7 +24,7 @@ By comparing Baltimore and Washington D.C., I could conclude that higher househo
 
 ## Python Analysis
 
-In Python, I used the same data sets from Opportunity Atlas. I was able to merge the data of household income and college graduation rate for both cities. By utilizing numpy statements, I was able to organize the names of the counties into two big categories: Baltimore, MD and Washington D.C. Using pivot analysis and creating a bar chart from plotly, I was able to compare the household income and college graduation rates of two cities.
+In Python, I used the same data sets from Opportunity Atlas. I was able to merge the data of household income and college graduation rates for both cities. By utilizing numpy statements, I was able to organize the names of the counties into two big categories: Baltimore, MD and Washington D.C. Using pivot analysis and creating a bar chart from plotly, I was able to compare the household income and college graduation rates of two cities.
 
 ### Household Income
 ![alt text](https://github.com/justinjiholee/baltimore-washingtondc-household-data/blob/main/bal_was_inc.png)
@@ -44,12 +44,18 @@ Washington D.C. has a higher college graduation rates than Baltimore.
 
 ### Household Income vs College Graduation rates
 
-From the analysis above, we might be able to associate household income and college graduation rates as Washington D.C. has both higher household income and college graduation rates than Baltimore. In order to prove this theory, I have looked at the relationship between household income and college graduation rates for both cities separately. 
+From the analysis above, we might be able to associate household income and college graduation rates as Washington D.C. has both higher household income and college graduation rates than Baltimore. In order to prove this theory, I have looked at the relationship between household income and college graduation rates for both cities separately using line graph through plotly. 
 
 #### Baltimore
 ![alt text](https://github.com/justinjiholee/baltimore-washingtondc-household-data/blob/main/bal_inc_college.png)
 
 #### Washington D.C.
-![alt text](
+![alt text](https://github.com/justinjiholee/baltimore-washingtondc-household-data/blob/main/was_inc_college.png) 
+
+These graphs show that while not all counties with higher household income leads to higher college graduation rates, there is some correlation between the two variables. In both Baltimore and Washington D.C., counties with higher household income tend to have higher college graduation rates as the line is increasing.
+
+## Conclusion
+
+
 
 
