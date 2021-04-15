@@ -57,6 +57,6 @@ These graphs show that while not all counties with higher household income leads
 
 For this project, I have compared household income and college graduation rates in Baltimore and Washington D.C., and analyzed the association between the two variables using Excel and Python. While I have used the same data sets for both excel and python analysis, I was surprised to find that there was a significant difference in average household income and college graduation rates numbers. 
 
-Conducting analysis through python was more beneficial as it provides more effective visualizations. 
+Conducting analysis through python was more beneficial as it provided more effective visualizations. Unlike excel, I was able to merge household income and college graduation rates using python, which allowed me to specifically analyze the direct association between the variables. 
 
 
