@@ -24,4 +24,7 @@ By comparing Baltimore and Washington D.C., I could conclude that higher househo
 
 ## Python Analysis
 
-In Python, I used the same data sets from Opportunity Atlas. I was able to merge the data of household income and college graduation rate for both cities. By utilizing numpy statements, I was able to organize the names of the counties into two big categories: Baltimore, MD and Washington D.C. 
+In Python, I used the same data sets from Opportunity Atlas. I was able to merge the data of household income and college graduation rate for both cities. By utilizing numpy statements, I was able to organize the names of the counties into two big categories: Baltimore, MD and Washington D.C. Using pivot analysis and creating a bar chart from plotly, I was able to compare the household income and college graduation rates of two cities.
+
+### Household Income
+![alt text]
