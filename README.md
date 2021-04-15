@@ -15,7 +15,7 @@ Using the data from Opportunity Atlas, I created a Pivot Table and a Bar Chart t
 #### Washington D.C.
 ![alt text](https://github.com/justinjiholee/baltimore-washingtondc-household-data/blob/main/Washington%20D.C.%20Average%20Household%20Income%20Graph.png)
 Using the data from Opportunity Atlas, I created a Pivot Table and a Bar Chart to analyze the average household income in Washinton D.C. The average household income in Washington D.C. is $35,500.
-### College Graduation Rate vs Household Income
+#### College Graduation Rate vs Household Income
 ![alt text](https://github.com/justinjiholee/baltimore-washingtondc-household-data/blob/main/College%20Graduation%20Rate%20Graph.png)
 
 In addition to average household income data, I was able to get the data of college graduation rates for both Baltimore and Washington D.C. The data shows that the college graduation rate for Baltimore is 21.63% while the rate for Washington D.C. is 33.91%. The graph shows that Washington D.C. has both higher average household income and college graduation rates than Baltimore. 
