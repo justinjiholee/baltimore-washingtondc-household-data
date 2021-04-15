@@ -35,6 +35,18 @@ Washington D.C. Average Household Income: $46,967
 Washington D.C. has a higher average household income than that of Baltimore. 
 
 ### College Graduation Rates
+![alt text](https://github.com/justinjiholee/baltimore-washingtondc-household-data/blob/main/bal_was_college_grad.png)
+
+Baltimore College Graduation Rates: 0.43
+Washington D.C. College Graduation Rates: 0.55
+
+Washington D.C. has a higher college graduation rates than Baltimore. 
+
+### Household Income vs College Graduation rates
+
+From the analysis above, we might be able to associate household income and college graduation rates as Washington D.C. has both higher household income and college graduation rates than Baltimore. In order to prove this theory, I have looked at the relationship between household income and college graduation rates for both cities separately. 
+
+#### Baltimore
 ![alt text](
 
 
