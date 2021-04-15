@@ -55,6 +55,6 @@ These graphs show that while not all counties with higher household income leads
 
 ## Conclusion
 
-
+For this project, I have compared household income and college graduation rates in Baltimore and Washington D.C., and analyzed the association between the two variables using Excel and Python.  
 
 
