@@ -20,7 +20,8 @@ Using the data from Opportunity Atlas, I created a Pivot Table and a Bar Chart t
 
 In addition to average household income data, I was able to get the data of college graduation rates for both Baltimore and Washington D.C. The data shows that the college graduation rate for Baltimore is 21.63% while the rate for Washington D.C. is 33.91%. The graph shows that Washington D.C. has both higher average household income and college graduation rates than Baltimore. 
 
-By comparing Baltimore and Washington D.C., I could conclude that higher household income leads to higher college college graduation rates and vice versa. As a college student in Baltimore, it was interesting to conduct an analysis of average household income and college graduation rates of Baltimore and to compare the data with a nearby city. In a future research, it would be interesting to relate the data of household income and college graduation rates to employment rates for these cities. 
+By comparing Baltimore and Washington D.C., I could conclude that higher household income leads to higher college college graduation rates and vice versa. As a college student in Baltimore, it was interesting to conduct an analysis of average household income and college graduation rates of Baltimore and to compare the data with a nearby city.  
 
 ## Python Analysis
 
+In Python, I used the same data sets from Opportunity Atlas. I was able to merge the data of household income and college graduation rate for both cities. By utilizing numpy statements, I was able to organize the names of the counties into two big categories: Baltimore, MD and Washington D.C. 
